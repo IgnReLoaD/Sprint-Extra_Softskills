@@ -1,0 +1,44 @@
+
+
+
+AGILE - bases del manifiesto:
+-----------------------------
+
+1. los valores del manifiesto son personas e interacciones sobre procesos y herramientas
+
+2. software funcionando sobre documentación extensiva (introducidos por la gente de XP)
+
+3. colaboración con el cliente ne lugar de negociarión de contratos
+
+4. responder al cambio en lugar de seguir el plan (introducicos por la gente de stream programming)
+
+
+12 valores del manifiesto AGILE:
+--------------------------------
+
+01. Nuestor obj satisf cliente a través entrega continua de softwre de valor
+
+02. Damos bienvenida requerimientos y cambios incluso si van tarde en el proceso (podemos hacer cambios en las decisiones)
+
+03. Entregar software frequentemente (desde 2 semanas a 2 meses máximo, preferiblemente tiempos más cortos)
+
+04. La gente de negocio y los desarrolladores tienen q trabajar juntos durante todo el proyecto (trabajando pensando en lo mismo) 
+
+05. Construir los proyectos alrededor de personas trabajadoras motivadas, darles el entorno que necesitan para hacer su trabajo.
+
+06. La mejor manera de mostrar u obtener información es mejor cara a cara (nada de herramientas asíncronas)
+
+07. La medida principal de progreso es el software funcionando
+
+08. Métodos ágiles promueven un paso sostenible (los desarrolladores, trabajadores, sponsors... deben tener un ritmo sostenible indefinido)
+
+09. Atención constante a la excelencia técnica y al buen diseño
+
+10. La simplicidad, el arte de maximizar lo no hecho, reducir al máximo todo lo que hacemos
+
+11. Las mejores arquitecturas diseños y trabajos salen de los equipos auto-organizados
+
+12. A intervales regulares el equipo inspecciona como ser mejor
+
+
+
